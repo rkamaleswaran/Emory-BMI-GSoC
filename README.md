@@ -156,7 +156,11 @@ There are a variety of software packages for visualizing data with plots, but re
 
 **Mentors:** Azade Tabaie (azade.tabaie -at- emory.edu) and Ian Wong (an-kwok.ian.wong -at- emory.edu)
 
-**Overview:** Sepsis is a clinical condition requiring intensive care, and can lead to organ dysfunction or death. The aim of this project is to develop novel machine learning algorithms for earlier prediction of sepsis using a minimal set of clinical variables. 
+**Overview:** Sepsis is a clinical condition requiring intensive care, and can lead to organ dysfunction or death. It is caused by an infection that triggers a chain inflammatory reaction throughout the body. A number of machine learning methods have been contributed to identify sepsis earlier using clinical datasets [1]. The aim of this project is to develop novel machine learning algorithms for earlier prediction of sepsis using a minimal set of clinical variables. You must obtain access to the public datasets prior to your proposal submission at the following websites:
+
+https://mimic.physionet.org/gettingstarted/access/
+
+https://eicu-crd.mit.edu/gettingstarted/access/
 
 **Expected results:** 
 
@@ -168,7 +172,7 @@ There are a variety of software packages for visualizing data with plots, but re
 
 **Slack room:** gsoc-emory-bmi.slack.com sepsis
 
-***
+*** [1] https://t.co/TcjFFvstYo?amp=1 
 
 **[7] Temporal analysis of a bioinformatics pipeline**
 
